@@ -37,7 +37,7 @@ body {
 .sidebar {
   position: fixed;
   top: 0;
-  left: 0;
+  left: 0 ;
   width: 16rem; /* Adjust width if needed */
   background-color: var(--background);
   height: 100%;

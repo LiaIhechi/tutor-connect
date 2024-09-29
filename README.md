@@ -189,7 +189,7 @@ How to Contribute
 Contact Information
 
 For any issues or suggestions, feel free to contact us at:
-- Email: u6520283@au.edu
+- Email: u6328005@au.edu
 - Phone: +123-456-7890
 
 ---
